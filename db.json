@@ -145,5 +145,20 @@
           "fees": 350
        }
        
+      ],
+      "todos" : [
+       {
+          "id" : 1,
+          "title" : "Tomorrow is holiday",
+          "priority": "high",
+          "completed" : "No"
+       },
+       {
+         "id" : 2,
+         "title" : "Learn Data structure and Algorithms",
+         "priority": "low",
+         "completed" : "Yes"
+      }
+       
       ]
   }
